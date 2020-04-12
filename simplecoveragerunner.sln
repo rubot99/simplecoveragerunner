@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplecoveragerunner.console", "simplecoveragerunner.console\simplecoveragerunner.console.csproj", "{A144AFA1-BB8B-4009-BA36-DE90321E0743}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{917C579B-7235-476E-AABF-7D57DEAE462D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		stylecop.json = stylecop.json
+		StyleCop.ruleset = StyleCop.ruleset
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A144AFA1-BB8B-4009-BA36-DE90321E0743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A144AFA1-BB8B-4009-BA36-DE90321E0743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A144AFA1-BB8B-4009-BA36-DE90321E0743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A144AFA1-BB8B-4009-BA36-DE90321E0743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AEAE9FD-7629-48F3-89FD-F47C82B8BA60}
+	EndGlobalSection
+EndGlobal

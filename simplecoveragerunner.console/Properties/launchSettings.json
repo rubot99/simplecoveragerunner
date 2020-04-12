@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "simplecoveragerunner.console": {
+      "commandName": "Project",
+      "commandLineArgs": "/p:c:\\dev\\GPS.Common.RestUtilities /c:c:\\dev\\test\\RU /r:c:\\dev\\test\\RU"
+    }
+  }
+}
